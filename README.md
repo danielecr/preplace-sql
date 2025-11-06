@@ -1,5 +1,7 @@
 # preplace-sql
 
+[![Sponsor](https://img.shields.io/badge/sponsor-danielecr-brightgreen?logo=github&style=for-the-badge)](https://github.com/sponsors/danielecr) | [Donate](https://paypal.me/danielecru) | [ko-fi](https://ko-fi.com/danielecruciani)
+
 Most nodejs sql engine use prepared statement as "SELECT ? FROM table WHERE x=?" etc. then an array of value to replace.
 
 This simple module transform
