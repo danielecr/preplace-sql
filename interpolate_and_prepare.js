@@ -53,7 +53,7 @@ export const interpolate_and_prepare = (tpl, data) => {
             let funChain = key.split('.');
             let funPart = funChain[0];
             let [funName, funArgs] = ef_and_arg(funPart);
-            if (funName === '_swallow') {
+            if (funName === '_swallog') {
                 let arg = replaceKey(funArgs, data);
                 let restOfChain = funChain.slice(1);
                 let quePart;
