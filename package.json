@@ -1,0 +1,25 @@
+{
+  "name": "preplace-sql",
+  "version": "1.0.0",
+  "description": "SQL prepare replacement utility",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielecr/preplace-sql.git"
+  },
+  "keywords": [
+    "sql",
+    "replace",
+    "prepared"
+  ],
+  "author": "Daniele Cruciani <daniele@smartango.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielecr/preplace-sql/issues"
+  },
+  "homepage": "https://github.com/danielecr/preplace-sql#readme"
+}
